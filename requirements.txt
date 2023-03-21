@@ -2,4 +2,10 @@ pandas
 numpy
 matplotlib
 seaborn
+scikit-learn
+catboost
+xgboost
+flask
+dill
+pickle
 #-e .
